@@ -1,0 +1,78 @@
+A Records :
+
+[0] Name : dreamsolution.nl | ttl: 3600 | ip: 213.154.241.150
+
+------------------
+
+AAAA Records: No Record Found.
+
+------------------
+
+CNAME Records: No Record Found.
+
+------------------
+
+MX Records :
+
+[0] Name : dreamsolution.nl | ttl: 3600 | ip: 142.250.27.26 | mx: ASPMX4.GOOGLEMAIL.COM. | preference: 60
+[1] Name : dreamsolution.nl | ttl: 3600 | ip: 64.233.184.27 | mx: ALT2.ASPMX.L.GOOGLE.COM. | preference: 30
+[2] Name : dreamsolution.nl | ttl: 3600 | ip: 142.250.153.27 | mx: ASPMX5.GOOGLEMAIL.COM. | preference: 70
+[3] Name : dreamsolution.nl | ttl: 3600 | ip: 142.251.167.26 | mx: ASPMX.L.GOOGLE.COM. | preference: 10
+[4] Name : dreamsolution.nl | ttl: 3600 | ip: 64.233.184.26 | mx: ASPMX3.GOOGLEMAIL.COM. | preference: 50
+[5] Name : dreamsolution.nl | ttl: 3600 | ip: 209.85.202.27 | mx: ASPMX2.GOOGLEMAIL.COM. | preference: 40
+[6] Name : dreamsolution.nl | ttl: 3600 | ip: 209.85.202.26 | mx: ALT1.ASPMX.L.GOOGLE.COM. | preference: 20
+
+------------------
+
+NS Records :
+
+[0] Name : dreamsolution.nl | ttl: 21600 | value: ns2.transip.eu.
+[1] Name : dreamsolution.nl | ttl: 21600 | value: ns1.transip.nl.
+[2] Name : dreamsolution.nl | ttl: 21600 | value: ns0.transip.net.
+
+------------------
+
+PTR Records: No Record Found.
+
+------------------
+
+SRV Records: No Record Found.
+
+------------------
+
+SOA Records :
+
+[0] Name : dreamsolution.nl | ttl: 3600 | mname: ns0.transip.net. | rname: hostmaster.transip.nl.
+
+------------------
+
+TXT Records :
+
+[0] Name : dreamsolution.nl | ttl: "3600" | value: "google-site-verification=5FSjW5yqBv6HA7DDCd2QWFG-mAIef1TguW2JRXkdNQs"
+[1] Name : dreamsolution.nl | ttl: "3600" | value: "v=spf1 include:_spf.google.com include:_spf.dreamsolution.nl include:_spf.mijnwefact.nl -all"
+
+------------------
+
+CAA Records :
+
+[0] Name : dreamsolution.nl | ttl: 3600 | value: 0 issue sectigo.com
+[1] Name : dreamsolution.nl | ttl: 3600 | value: 0 issue letsencrypt.org
+
+------------------
+
+DS Records :
+
+[0] Name : dreamsolution.nl | ttl: 3600 | key_tag: 16290 | algorithm: 13 | digest_type: 2 | digest: 48C13AE104A44CBA914164DB6D3728AFD1906074B102
+1A98D3883FE7F74D6B21
+
+------------------
+
+DNSKEY Records :
+
+[0] Name : dreamsolution.nl | ttl: 300 | algorithm_id: 13 | protocol: 3 | type: ZSK | key_id: 53167 | key: "TrXPskn4XjHyWkNsfwWezzIusombO64g9V8FekZTlEFg
+QaJB8rgomtD/xVEBe1doLVfX3NSHT/T/grz3HEWedg=="
+[1] Name : dreamsolution.nl | ttl: 300 | algorithm_id: 13 | protocol: 3 | type: KSK | key_id: 16290 | key: "CfTL7ufq77K+fK/a5mMHX9tUx1UsAeraMPGdKB8WYEJf
+9oXGRTsMHMp60Yh65HocGBHQsGBqns9AeSyzM3LaTA=="
+
+------------------
+
