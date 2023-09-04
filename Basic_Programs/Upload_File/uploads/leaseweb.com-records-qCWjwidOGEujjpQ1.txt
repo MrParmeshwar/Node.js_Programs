@@ -1,0 +1,67 @@
+A Records :
+
+[0] Name : leaseweb.com | ttl: 300 | ip: 185.28.70.130
+
+------------------
+
+AAAA Records: No Record Found.
+
+------------------
+
+CNAME Records: No Record Found.
+
+------------------
+
+MX Records :
+
+[0] Name : leaseweb.com | ttl: 3600 | ip: 38.89.254.156 | mx: lastmx.spamexperts.net. | preference: 30
+[1] Name : leaseweb.com | ttl: 3600 | ip: 38.89.254.156 | mx: mx.spamexperts.com. | preference: 10
+[2] Name : leaseweb.com | ttl: 3600 | ip: 38.89.254.156 | mx: fallbackmx.spamexperts.eu. | preference: 20
+
+------------------
+
+NS Records :
+
+[0] Name : leaseweb.com | ttl: 21600 | value: ns0.leaseweb.com.
+[1] Name : leaseweb.com | ttl: 21600 | value: ns1.leaseweb.com.
+
+------------------
+
+PTR Records: No Record Found.
+
+------------------
+
+SRV Records: No Record Found.
+
+------------------
+
+SOA Records :
+
+[0] Name : leaseweb.com | ttl: 3600 | mname: ns0.leaseweb.com. | rname: postmaster.leaseweb.com.
+
+------------------
+
+TXT Records :
+
+[0] Name : leaseweb.com | ttl: "60" | value: "v=spf1 ip4:85.17.130.15 ip4:85.17.130.16 ip4:89.238.146.98 ip6:2a02:40:12::e include:spf.mxout.ocom.com include:spf.protection.outlook.com include:spf.exclaimer.net include:27248975.spf04.hubspotemail.net include:_spf.cmail.ondemand.com include:mg-spf.gre enhouse.io -all"
+[1] Name : leaseweb.com | ttl: "60" | value: "MS=ms91262006"
+[2] Name : leaseweb.com | ttl: "60" | value: "FLZfzZqB/ImDu7dJxAXiT5wOISxhxlZxaAaBEPDSgIVcSQcwh9Zl4Z8Fh8wXbSO6M7IajWOw7c7wd2yqNE0mMw=="
+[3] Name : leaseweb.com | ttl: "60" | value: "docusign=f024d063-2933-480f-b048-edde9ae4d116"
+[4] Name : leaseweb.com | ttl: "60" | value: "docusign=ef8ef129-6fc1-43d8-a324-231182fb8a63"
+[5] Name : leaseweb.com | ttl: "60" | value: "apple-domain-verification=UStTuS0IjsFb6FA6"
+[6] Name : leaseweb.com | ttl: "60" | value: "google-site-verification=Q1dmm70WHQoqC96y8FjrUKp0ZjSWmdf2zLG7tY6aHzk"
+
+------------------
+
+CAA Records: No Record Found.
+
+------------------
+
+DS Records: No Record Found.
+
+------------------
+
+DNSKEY Records: No Record Found.
+
+------------------
+

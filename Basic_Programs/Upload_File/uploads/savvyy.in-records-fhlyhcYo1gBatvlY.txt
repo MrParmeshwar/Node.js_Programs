@@ -1,0 +1,70 @@
+A Records :
+
+[0] Name : savvyy.in | ttl: 1799 | ip: 23.227.38.65
+
+------------------
+
+AAAA Records: No Record Found.
+
+------------------
+
+CNAME Records: No Record Found.
+
+------------------
+
+MX Records :
+
+[0] Name : savvyy.in | ttl: 1800 | ip: 209.85.202.27 | mx: aspmx2.googlemail.com. | preference: 10
+[1] Name : savvyy.in | ttl: 1800 | ip: 64.233.184.27 | mx: aspmx3.googlemail.com. | preference: 10
+[2] Name : savvyy.in | ttl: 1800 | ip: 209.85.202.27 | mx: alt1.aspmx.l.google.com. | preference: 5
+[3] Name : savvyy.in | ttl: 1800 | ip: 64.233.184.27 | mx: alt2.aspmx.l.google.com. | preference: 5
+[4] Name : savvyy.in | ttl: 1800 | ip: 142.251.163.26 | mx: aspmx.l.google.com. | preference: 1
+
+------------------
+
+NS Records :
+
+[0] Name : savvyy.in | ttl: 1800 | value: dns1.registrar-servers.com.
+[1] Name : savvyy.in | ttl: 1800 | value: dns2.registrar-servers.com.
+
+------------------
+
+PTR Records: No Record Found.
+
+------------------
+
+SRV Records: No Record Found.
+
+------------------
+
+SOA Records :
+
+[0] Name : savvyy.in | ttl: 3601 | mname: dns1.registrar-servers.com. | rname: hostmaster.registrar-servers.com.
+
+------------------
+
+TXT Records :
+
+[0] Name : savvyy.in | ttl: "1799" | value: "google-site-verification=3pXKz_1NrM9CfHlfQRwG6PBb6pTfDvRtEw4jZqIvbSE"
+
+------------------
+
+CAA Records: No Record Found.
+
+------------------
+
+DS Records :
+
+[0] Name : savvyy.in | ttl: 3600 | key_tag: 4860 | algorithm: 13 | digest_type: 1 | digest: D13E6792E0BE485DD1085E5F94CF4CCCF7524A2B
+
+------------------
+
+DNSKEY Records :
+
+[0] Name : savvyy.in | ttl: 3601 | algorithm_id: 13 | protocol: 3 | type: ZSK | key_id: 20410 | key: "uvJYdpqVo6FfjjL3JzZt6+KppIJhVMv6kozt6FpKjsHg
+UpeoO9uizPVoev4xF0eFshEdThjxlwN/tXb30bMtDA=="
+[1] Name : savvyy.in | ttl: 3601 | algorithm_id: 13 | protocol: 3 | type: KSK | key_id: 4860 | key: "/U/vax06ZrIbxfeGQ3AZVF/l2iEQXD5jYu9oDwRR5VO2
+9qMK/cv9wegxQQxgeQodG9NPSM8HnGaNtz1DvQmo2A=="
+
+------------------
+
